@@ -9,3 +9,5 @@ aux_links:
 
 plugins:
   - jekyll-default-layout
+
+color_scheme: custom
